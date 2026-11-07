@@ -1,0 +1,37 @@
+Tonle Rec - parts made by others
+================================
+
+Tonle Rec is free to use. It includes the following free and open-source parts. Each keeps its own
+licence; the full licence texts are in this folder. Tonle Rec's own code is not open source.
+
+FFmpeg 6.1.1 (essentials build by gyan.dev, via ffmpeg-static 5.3.0)
+  Records the screen, joins and exports videos. Runs as a separate program (ffmpeg.exe).
+  Licence: GNU General Public License v3 or later - FFmpeg-GPL-3.0.txt
+  Source code: https://ffmpeg.org/releases/ffmpeg-6.1.1.tar.xz
+  Build used:  https://www.gyan.dev/ffmpeg/builds/ (6.1.1 essentials) and
+               https://github.com/eugeneware/ffmpeg-static (release b6.1.1)
+
+DeepFilterNet 0.5.6 + DeepFilterNet3 model (Hendrik Schroeter and contributors)
+  "Strong (AI)" and "Extra (AI)" noise removal. Runs as a separate program (deep-filter.exe).
+  Licence: MIT or Apache-2.0 - DeepFilterNet-MIT.txt, DeepFilterNet-Apache-2.0.txt
+  Source: https://github.com/Rikorose/DeepFilterNet
+
+RNNoise speech model (Xiph.Org / Mozilla), FFmpeg arnndn format
+  Backup noise removal. Licence: BSD 3-clause - RNNoise-BSD.txt
+  Source: https://github.com/xiph/rnnoise , https://github.com/richardpl/arnndn-models
+
+MediaPipe Tasks Vision 1.1.1 + selfie segmenter model (Google)
+  Removes or blurs the camera background. Licence: Apache-2.0 - MediaPipe-Apache-2.0.txt
+  Source: https://github.com/google-ai-edge/mediapipe
+
+Electron 45 / Chromium
+  The app frame. Licence: MIT (Electron) and the Chromium licences - see LICENSE.electron.txt and
+  LICENSES.chromium.html in the Tonle Rec install folder.
+
+React 19 (MIT) - react-LICENSE.txt, react-dom-LICENSE.txt
+mp4box.js 2.5 (BSD 3-clause) - mp4box-LICENSE.txt
+koffi 3.3 (MIT) - koffi-LICENSE.txt
+
+Downloaded only when you turn on captions (not part of the installer):
+  whisper.cpp (MIT, https://github.com/ggml-org/whisper.cpp), ggml-small model (MIT, OpenAI Whisper),
+  Khmer model ggml-base-khmer (CC BY-SA 4.0, https://huggingface.co/sengtha/whisper-base-khmer).
