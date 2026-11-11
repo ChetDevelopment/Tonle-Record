@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/price-free-success" alt="Free">
 <img src="https://img.shields.io/badge/watermark-none-success" alt="No watermark">
 <img src="https://img.shields.io/github/downloads/ChetDevelopment/Tonle-Record/total?color=8b7bff&label=downloads" alt="Downloads">
+<a href="https://www.virustotal.com/gui/file/15f534539e1b2076b7787bc9632c3777e090b2ac3f21fbee6255268584520b6a"><img src="https://img.shields.io/badge/✅%20virus%20scan-clean-success" alt="Virus scan: clean (VirusTotal)"></a>
 
 <br><br>
 
